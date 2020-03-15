@@ -31,3 +31,5 @@ This can be changed by going to the menu. Type "Unlock widgets" to unlock, and t
 
 So if anything goes wonky with the panel, just unlock the widgets and set the panel to your liking. This is
 cause and effect of some settings not taking effect properly.
+
+Finally, I must thank all those who created the icon themes and theming styles for me to work with! This is a tribute to their work!
