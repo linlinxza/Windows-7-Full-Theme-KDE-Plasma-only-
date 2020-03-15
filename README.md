@@ -7,7 +7,7 @@ Tested with KDE 5.18
 
 Just copy these lines:
 
-git clone https://github.com/linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-
+git clone https://github.com/linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-.git
 
 cd Windows-7-Full-Theme-KDE-Plasma-only-
 
