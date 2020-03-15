@@ -33,3 +33,19 @@ So if anything goes wonky with the panel, just unlock the widgets and set the pa
 cause and effect of some settings not taking effect properly.
 
 Finally, I must thank all those who created the icon themes and theming styles for me to work with! This is a tribute to their work!
+
+Credits:
+
+http://b00merang.weebly.com/windows-7.html
+
+https://www.gnome-look.org/content/show.php/Win2-7+Pack?content=113264
+
+https://store.kde.org/p/998823/
+
+https://store.kde.org/p/1084938/
+
+https://www.gnome-look.org/p/1000041/
+
+https://store.kde.org/p/1002683/
+
+https://store.kde.org/p/1002615/
