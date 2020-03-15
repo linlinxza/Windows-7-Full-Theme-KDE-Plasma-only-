@@ -28,6 +28,7 @@ read -p "Copy presets? ALL CURRENT USER PROFILE DESKTOP SETTINGS WILL BE OVERWRI
 if [ "$USER_OPTION" ==  'Y' ];then
         sudo echo "Copying presets"
         cp -rf presets/.kde ~/
+        rm ~/.config/plasma-org.kde.plasma.desktop-appletsrc
         cp -rf presets/.config ~/
         sudo cp -rf sddmsettings/* /usr/share/sddm/themes/breeze/
         clear
