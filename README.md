@@ -16,7 +16,7 @@ Type "Y" for yes. Or otherwise, the script will just skip it if any other charac
 
 Then for the splash screen, select the option for "7" as your plymouth boot screen.
 
-Regarding the splash screen when logging in, it most likely will need to to be resized if the resolution is ever changed.
+Regarding the splash screen when logging in, it most likely will need to to be resized if the resolution is ever changed. In the application menu, type "Win 7 Splash Fix."
 
 All widgets are locked when installing this. (I did this for users who... tend to click everywhere.) 
 This can be changed by going to the menu. Type "Unlock widgets" to unlock, and type "Lock widgets" to lock again.
