@@ -15,6 +15,8 @@ sudo cp -rf windowthemes/* /usr/share/aurorae/themes/
 sudo cp -rf gtktheme/* /usr/share/themes/
 convert splashtheme/org.Win7.desktop/contents/splash/images/background-logon-default-windows-7.png -resize $(xrandr | grep \* | awk '{print $1}')! splashtheme/org.Win7.desktop/contents/splash/images/background.png
 sudo cp -rf splashtheme/* /usr/share/plasma/look-and-feel/
+sudo cp "Lock Widgets.desktop" /usr/share/applications/
+sudo cp "Unlock Widgets.desktop" /usr/share/applications/
 sudo cp "Win 7 Splash Fix.desktop" /usr/share/applications/
 sudo cp -rf sevenfonts/* /usr/share/fonts/
 sudo cp -rf plymouththeme/* /usr/share/plymouth/themes/
