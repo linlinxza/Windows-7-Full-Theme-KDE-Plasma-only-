@@ -1,0 +1,4 @@
+[Desktop Entry]
+Icon=firefox
+Type=Link
+URL[$e]=file:///usr/bin/firefox

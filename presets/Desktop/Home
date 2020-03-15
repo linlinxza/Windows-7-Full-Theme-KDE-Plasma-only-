@@ -1,0 +1,4 @@
+[Desktop Entry]
+Icon=user-home
+Type=Link
+URL[$e]=file:$HOME

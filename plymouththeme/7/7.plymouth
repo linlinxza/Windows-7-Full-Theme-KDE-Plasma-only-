@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=7
+Description=A theme that features the shadowy hull of a Fedora logo charge up and and finally burst into into full form.
+ModuleName=script
+
+
+[script]
+ImageDir=/usr/share/plymouth/themes/7
+ScriptFile=/usr/share/plymouth/themes/7/7.script

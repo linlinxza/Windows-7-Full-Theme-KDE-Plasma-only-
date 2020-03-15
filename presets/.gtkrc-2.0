@@ -1,0 +1,12 @@
+gtk-primary-button-warps-slider=0
+
+
+gtk-cursor-theme-name="Win-8.1-S"
+gtk-font-name="Noto Sans Regular 10"
+gtk-theme-name="Breeze"
+gtk-icon-theme-name="darkine"
+gtk-fallback-icon-theme="breeze"
+gtk-toolbar-style=GTK_TOOLBAR_ICONS
+gtk-menu-images=1
+gtk-button-images=1
+

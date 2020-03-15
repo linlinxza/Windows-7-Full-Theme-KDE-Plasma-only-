@@ -1,0 +1,8 @@
+[General]
+ActiveOpacity=80
+BorderSize=4
+InactiveOpacity=60
+InnerBorder=1
+OpaqueBorder=false
+OuterBorder=1
+TitleBarPad=2

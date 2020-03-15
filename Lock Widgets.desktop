@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=
+Exec=qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(true)"\n
+Name=Lock Widgets
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

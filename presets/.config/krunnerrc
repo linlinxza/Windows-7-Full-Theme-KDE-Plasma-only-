@@ -1,0 +1,5 @@
+[General]
+history=plasmashell,pkill plasmashell
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_plasmashell,1 shell_pkill plasmashell

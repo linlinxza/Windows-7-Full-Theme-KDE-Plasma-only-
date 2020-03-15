@@ -1,0 +1,12 @@
+INSTALLATION INSTRUCTIONS
+
+User installation:
+
+1 - Extract the archive to ~/.kde/share/apps/desktoptheme (Remove old directory if it exists) 
+2 - Enable the theme in systemsettings or by edit the plasmarc file located in
+    ~/.kde/share/config/plasmarc or
+    ~/.kde4/share/config/plasmarc
+    and change
+    [Theme]
+    name=Default with name=Volatile
+3 - Log out and in again if changes hasnt occured

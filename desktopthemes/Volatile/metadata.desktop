@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Volatile
+Comment=Great theme for back or colorful wallpapers
+
+X-KDE-PluginInfo-Author=bionegative
+X-KDE-PluginInfo-Email=sebastian_henriksson83@hotmail.com
+X-KDE-PluginInfo-Name=Volatile
+X-KDE-PluginInfo-Version=1.8
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Settings]
+UseNativeWidgetStyle=false

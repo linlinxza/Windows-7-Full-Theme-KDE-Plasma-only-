@@ -1,0 +1,27 @@
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 600=459
+Height 647=442
+Width 1360=413
+Width 800=407
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_kcm_cursortheme.desktop,1 services_kcm_touchpad.desktop,2 services_org.kde.konsole.desktop,1 services_gufw.desktop,1 services_kcm_sddm.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1360]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal800]
+thickness=36
+
+[ScreenConnectors]
+0=Virtual1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

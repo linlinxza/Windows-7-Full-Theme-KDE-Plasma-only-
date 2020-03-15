@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Seven Black
+Comment=Seven Black theme with glass effect mat
+
+X-KDE-PluginInfo-Author=Mirko Gennari
+X-KDE-PluginInfo-Email=mirkogen@hotmail.it
+X-KDE-PluginInfo-Name=Seven Black
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.techbulk.net
+X-KDE-PluginInfo-Category=Window Decoration Aurorae
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=True
+
+[Settings]
+UseNativeWidgetStyle=False

@@ -1,0 +1,20 @@
+ 
+[Desktop Entry]
+Comment=Theme for KDE 5
+Name=OxygenDymAero7
+
+
+
+X-KDE-PluginInfo-Name=OxygenDymAero7
+X-KDE-PluginInfo-Version=0.9.4.8
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=KDE5
+X-KDE-PluginInfo-EnabledByDefault=true
+
+#X-KDE-PluginInfo-Website=
+
+#[Wallpaper]
+#defaultWallpaperTheme=Elarun
+#defaultFileSuffix=.png
+#defaultWidth=2560
+#defaultHeight=1600

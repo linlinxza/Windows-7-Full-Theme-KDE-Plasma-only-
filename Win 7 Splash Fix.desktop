@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_CA]=
+Comment=
+Exec=convert /usr/share/plasma/look-and-feel/org.Win7.desktop/contents/splash/images/background-logon-default-windows-7.png -resize $(xrandr | grep \\* | awk '{print $1}')! /usr/share/plasma/look-and-feel/org.Win7.desktop/contents/splash/images/background.png
+GenericName[en_CA]=
+GenericName=
+Icon=application-document-template
+MimeType=
+Name[en_CA]=Win 7 Splash Fix
+Name=Win 7 Splash Fix
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=true
+X-KDE-Username=root

@@ -1,0 +1,12 @@
+[Show]
+compressfileitemaction=true
+extractfileitemaction=true
+installFont=true
+kactivitymanagerd_fileitem_linking_plugin=false
+kdeconnectsendfile=true
+openTerminalHere=true
+plasmavaultfileitemaction=false
+runInKonsole=true
+sharefileitemaction=false
+slideshow=true
+tagsfileitemaction=false
