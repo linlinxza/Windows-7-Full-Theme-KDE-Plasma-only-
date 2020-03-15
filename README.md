@@ -28,3 +28,4 @@ Regarding the splash screen when logging in, it most likely will need to to be r
 
 All widgets are locked when installing this. (I did this for users who... tend to click everywhere.) 
 This can be changed by going to the menu. Type "Unlock widgets" to unlock, and type "Lock widgets" to lock again.
+So if anything goes wonky with the panel, just unlock the widgets and set the panel to your liking.
