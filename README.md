@@ -3,11 +3,19 @@ Here it is. A Full Windows 7 theme! (Possibly)
 
 Tested with KDE 5.18
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 Just copy these lines:
 
 git clone https://github.com/linlinxza/Windows-7-Full-Theme-KDE-Plasma-only-
 
+cd Windows-7-Full-Theme-KDE-Plasma-only-
+
+chmod +x transformationsetup.sh
+
 ./transformationsetup.sh
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 It will copy everything to the specified system directories required to make this theme work.
 Then it will ask whether or not to copy over your user config files in the current user profile. 
