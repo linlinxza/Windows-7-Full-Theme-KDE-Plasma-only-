@@ -15,6 +15,8 @@ chmod +x transformationsetup.sh
 
 ./transformationsetup.sh
 
+If using KDE Neon, git will have to be manually installed under sudo like so: apt install git -y
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 It will copy everything to the specified system directories required to make this theme work.
