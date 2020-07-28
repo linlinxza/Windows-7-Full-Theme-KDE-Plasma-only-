@@ -16,7 +16,8 @@ sudo echo "Copying Items"
 sudo cp -rf wallpaper/* /usr/share/wallpapers/
 sudo cp cursors-icons/win7startorb.png /usr/share/icons/
 sudo unzip cursors-icons/Windows-7.zip -d /usr/share/icons/
-sudo tar xf cursors-icons/aero.tar.gz --directory /usr/share/icons/
+zip -s 0 cursors-icons/We10X.zip --out cursors-icons/We10X-unsplit.zip
+sudo unzip cursors-icons/We10X-unsplit.zip -d /usr/share/icons/
 sudo tar xf cursors-icons/Win-8.1-NS.tar.gz --directory /usr/share/icons/
 sudo tar xf cursors-icons/Win-8.1-S.tar.gz --directory /usr/share/icons/
 sudo cp -rf desktopthemes/* /usr/share/plasma/desktoptheme/
