@@ -1,7 +1,7 @@
 # Windows-7-Full-Theme-KDE-Plasma-only-
 Here it is. A Full Windows 7 theme! (Possibly)
 
-Tested with KDE 5.18
+Tested with KDE 5.19
 
 -----------------------------------------------------------------------------------------------------------------------------
 
