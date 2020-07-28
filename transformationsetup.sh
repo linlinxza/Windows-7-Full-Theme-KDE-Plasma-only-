@@ -53,13 +53,17 @@ if [ "$USER_OPTION" ==  'Y' ];then
         clear
 fi
 
-## Splash theme selection
+## Boot Splash theme selection
 
 sudo echo "Setting Boot splash theme"
 sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/7/7.plymouth 100
 sudo update-alternatives --config default.plymouth
 sudo update-initramfs -u
 clear
+
+# Arch Boot Splash theme setup
+
+sudo plymouth-set-default-theme -R 7
 
 ## Complete section
 
