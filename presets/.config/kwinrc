@@ -25,4 +25,4 @@ ButtonsOnRight=HIAX
 CloseOnDoubleClickOnMenu=false
 ShowToolTips=true
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__seven-black
+theme=__aurorae__svg__Se7enAero
