@@ -21,7 +21,7 @@ sudo tar xf cursors-icons/Win-8.1-NS.tar.gz --directory /usr/share/icons/
 sudo tar xf cursors-icons/Win-8.1-S.tar.gz --directory /usr/share/icons/
 sudo cp -rf desktopthemes/* /usr/share/plasma/desktoptheme/
 sudo mkdir /usr/share/aurorae/ && sudo mkdir /usr/share/aurorae/themes/
-sudo cp -rf windowthemes/* /usr/share/aurorae/themes/
+sudo unzip Se7enAero.zip -d /usr/share/aurorae/themes/
 sudo cp -rf gtktheme/* /usr/share/themes/
 convert splashtheme/org.Win7.desktop/contents/splash/images/background-logon-default-windows-7.png -resize $(xrandr | grep \* | awk '{print $1}')! splashtheme/org.Win7.desktop/contents/splash/images/background.png
 sudo cp -rf splashtheme/* /usr/share/plasma/look-and-feel/
