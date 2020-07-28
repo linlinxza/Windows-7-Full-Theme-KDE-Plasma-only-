@@ -124,7 +124,7 @@ toolBarFont=Segoe UI Semibold,10,-1,5,50,0,0,0,0,0,Regular
 widgetStyle=Breeze
 
 [Icons]
-Theme=Windows-7
+Theme=We10X
 
 [KDE]
 AnimationDurationFactor=0.000000
