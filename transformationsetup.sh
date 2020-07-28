@@ -43,6 +43,8 @@ if [ "$USER_OPTION" ==  'Y' ];then
         rm ~/.config/plasma-org.kde.plasma.desktop-appletsrc
         cp -rf presets/.config ~/
         sudo cp -rf sddmsettings/* /usr/share/sddm/themes/breeze/
+        sudo cp -rf sddmsettings/* /usr/share/sddm/themes/breath2/
+        sudo cp -rf sddmsettings/* /usr/share/sddm/themes/kubuntu/
         clear
     else
         echo "Skipping"
