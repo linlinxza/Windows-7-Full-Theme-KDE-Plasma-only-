@@ -17,6 +17,8 @@ chmod +x transformationsetup.sh
 
 If using KDE Neon, git will have to be manually installed under sudo like so: apt install git -y
 
+If using any Arch based system, Grub will have to be set up manually for the 7 Plymouth theme. Adding 'splash' (without quotes) to the Grub parameters and running update-grub under sudo should be enough.
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 It will copy everything to the specified system directories required to make this theme work.
@@ -32,7 +34,7 @@ All widgets are locked when installing this. (I did this for users who... tend t
 This can be changed by going to the menu. Type "Unlock widgets" to unlock, and type "Lock widgets" to lock again.
 
 So if anything goes wonky with the panel, just unlock the widgets and set the panel to your liking. This is
-cause and effect of some settings not taking effect properly. So some things may not set properly such as the wallpaper and icons. Which will need to be reapplied.
+cause and effect of some settings not taking effect properly.
 
 Finally, I must thank all those who created the icon themes and theming styles for me to work with! This is a tribute to their work!
 
