@@ -17,7 +17,13 @@ chmod +x transformationsetup.sh
 
 If using KDE Neon, git will have to be manually installed under sudo like so: apt install git -y
 
-If using any Arch based system, Grub will have to be set up manually for the 7 Plymouth theme. Adding 'splash' (without quotes) to the Grub parameters and running update-grub under sudo should be enough.
+If using any Arch based system, Grub will have to be set manually for the 7 Plymouth theme. Add 'splash' (without quotes) to the Grub parameter.
+
+Then in terminal run (under sudo):
+
+grub-editenv - unset menu_auto_hide
+
+update-grub
 
 -----------------------------------------------------------------------------------------------------------------------------
 
