@@ -6,6 +6,7 @@ arch_check=`cat /etc/os-release | grep ID_LIKE | cut -d '=' -f2,2`
     
 if [ "$arch_check" == arch ];then
         sudo pacman -S unzip --noconfirm
+        sudo pacman -S zip --noconfirm
     else
         echo
     fi
