@@ -1,5 +1,15 @@
 #!/bin/bash
 
+#Distribution check and prep
+
+arch_check=`cat /etc/os-release | grep ID_LIKE | cut -d '=' -f2,2`
+    
+if [ "$arch_check" == arch ];then
+        sudo pacman -S unzip --noconfirm
+    else
+        echo
+    fi
+
 ## Copy items section
 
 sudo echo "Copying Items"
@@ -49,3 +59,6 @@ clear
 ## Complete section
 
 echo "Setup complete! Enjoy!"
+echo "Logging out!"
+sleep 5
+qdbus org.kde.ksmserver /KSMServer logout 0 0 0
